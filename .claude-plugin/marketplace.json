@@ -1,0 +1,15 @@
+{
+  "name": "emilkowalski-skills",
+  "description": "Emil Kowalski's design-engineering skills (animation, motion, UI polish), packaged as a Claude plugin. Fork: Sudo-Dev-Mavs/skills.",
+  "owner": {
+    "name": "Sudo-Dev-Mavs"
+  },
+  "plugins": [
+    {
+      "name": "emil-skills",
+      "source": "./",
+      "description": "Skills for designers and engineers: build, review, audit and remove animations, choreograph motion, gestures, mobile-native fixes, Apple design principles, Sonner, Swift and more.",
+      "category": "Design"
+    }
+  ]
+}

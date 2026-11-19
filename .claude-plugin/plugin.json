@@ -1,0 +1,13 @@
+{
+  "name": "emil-skills",
+  "version": "1.0.0",
+  "description": "Emil Kowalski's skills for designers and engineers: build, review, audit and remove animations, choreograph motion, gestures, mobile-native fixes, Apple design principles, Sonner, Swift and more.",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://emilkowal.ski"
+  },
+  "homepage": "https://aiforui.dev/skills",
+  "repository": "https://github.com/Sudo-Dev-Mavs/skills",
+  "license": "MIT",
+  "keywords": ["design", "animation", "motion", "ui", "frontend"]
+}
